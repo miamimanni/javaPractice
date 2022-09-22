@@ -1,0 +1,13 @@
+public class Exercise007 {
+	public static void main(String[] args) {
+		String firstName;
+		String lastName;
+
+		firstName = "Elias";
+		lastName = "Rosario";
+
+		System.out.print(firstName);
+		System.out.print(" ");
+		System.out.print(lastName);
+	} // end main
+} // end class

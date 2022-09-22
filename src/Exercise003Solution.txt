@@ -1,0 +1,7 @@
+public class Exercise003 {
+	public static void main(String[] args) {
+		int aNumber;
+		aNumber = 10;
+		System.out.println(aNumber);
+	} // end main
+} // end class

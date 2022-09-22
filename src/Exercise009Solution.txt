@@ -1,0 +1,14 @@
+public class Exercise009 {
+	public static void main(String[] args) {
+		String firstName = "Elias";
+		String lastName = "Rosario";
+		int age = 33;
+
+		System.out.println("Mr.");
+		System.out.println(firstName);
+		System.out.println(lastName);
+		System.out.println("is");
+		System.out.println(age);
+		System.out.println("years old");
+	} // end main
+} // end class

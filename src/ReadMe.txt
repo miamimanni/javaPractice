@@ -1,0 +1,1 @@
+Exercises 1 through 7 teach you how to work with println and String variables
