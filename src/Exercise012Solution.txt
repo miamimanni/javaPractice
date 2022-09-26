@@ -1,0 +1,11 @@
+import java.util.Scanner;
+
+public class Exercise012 {
+	public static void main(String[] args) {
+		Scanner userInputReader = new Scanner(System.in);
+		System.out.println("What is your age?");
+		int age;
+		age = userInputReader.nextInt();
+		System.out.println("You are " + age + " years old");
+	} // end main
+} // end class
