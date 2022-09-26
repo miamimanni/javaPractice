@@ -6,9 +6,9 @@
 		// assign value "Elias" to firstName variable
 		// assign value "Rosario" to lastName variable
 
-		// Print out value in firstname variable, NOT on it's own line
+		// Print out value in firstName variable, NOT on it's own line
 		// Print out literal String space character " ", NOT on it's own line
-		// Print out value in lastname variable, NOT on it's own line
+		// Print out value in lastName variable, NOT on it's own line
 	// end main
 // end class
 

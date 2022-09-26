@@ -1,10 +1,10 @@
-// declare a class named Exercise007
+// declare a class named Exercise008
 	// declare your main method
 		// declare datatype String variable called firstName, and assign value "Elias" to firstName variable
 		// declare datatype String variable called lastName, and assign value "Rosario" to lastName variable
 
-		// Print out line firstname variable
-		// Print out line lastname variable
+		// Print out line firstName variable
+		// Print out line lastName variable
 	// end main
 // end class
 

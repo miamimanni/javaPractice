@@ -4,6 +4,6 @@ public class Exercise011 {
 		String lastName = "Rosario";
 		int age = 33;
 
-		System.out.print("Mr. " + firstName + " " + lastName + " is " + age + " years old";
+		System.out.println("Mr. " + firstName + " " + lastName + " is " + age + " years old");
 	} // end main
 } // end class

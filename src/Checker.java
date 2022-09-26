@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 public class Checker {
-	public static void main(String args[]) throws IOException, ClassNotFoundException {
+	public static void main(String args[]) throws IOException {
 		String exerciseNumber = "001"; 
 		String  problemFilename  = "./src/Exercise" + exerciseNumber + ".java";
 		String  solutionFileName = "./src/Exercise" + exerciseNumber + "Solution.txt";
